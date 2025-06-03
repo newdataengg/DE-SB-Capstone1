@@ -1,0 +1,28 @@
+─monikasharma@Mac ~
+╰─$ azcopy copy '/Users/monikasharma/Documents/Study/Washu-DE/DE-SB-Capstone1/data' 'https://springboardcapstone1st.blob.core.windows.net/data/?sp=racwdlmeop&st=2025-05-30T20:43:04Z&se=2025-08-31T04:43:04Z&spr=https&sv=2024-11-04&sr=c&sig=G9f2eGv1b1VaWqtryvKHjK9ELmFa32ZnfJ%2BfR1IvcWc%3D' --recursive
+INFO: Scanning...
+INFO: Any empty folders will not be processed, because source and/or destination doesn't have full folder support
+
+Job c993d89b-f9f9-c848-5d92-b03fcd585c55 has started
+Log file is located at: /Users/monikasharma/.azcopy/c993d89b-f9f9-c848-5d92-b03fcd585c55.log
+
+100.0 %, 16 Done, 0 Failed, 0 Pending, 0 Skipped, 16 Total, 2-sec Throughput (Mb/s): 0.9827
+
+
+Job c993d89b-f9f9-c848-5d92-b03fcd585c55 summary
+Elapsed Time (Minutes): 0.0334
+Number of File Transfers: 16
+Number of Folder Property Transfers: 0
+Number of Symlink Transfers: 0
+Total Number of Transfers: 16
+Number of File Transfers Completed: 16
+Number of Folder Transfers Completed: 0
+Number of File Transfers Failed: 0
+Number of Folder Transfers Failed: 0
+Number of File Transfers Skipped: 0
+Number of Folder Transfers Skipped: 0
+Total Number of Bytes Transferred: 246039
+Final Job Status: Completed
+
+╭─monikasharma@Mac ~
+╰─$
