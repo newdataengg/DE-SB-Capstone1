@@ -1,0 +1,1 @@
+azcopy copy '/Users/monikasharma/Documents/Study/Washu-DE/DE-SB-Capstone1/data' 'https://springboardcapstone1dl.blob.core.windows.net/input?sp=racwdl&st=2025-06-10T22:22:47Z&se=2025-08-31T06:22:47Z&spr=https&sv=2024-11-04&sr=c&sig=364pCoNgjEtIW%2BrLV61R99OISoqOGbjYuCgUEXvjAJ4%3D' --recursive
