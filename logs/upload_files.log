@@ -1,0 +1,25 @@
+INFO: Scanning...
+INFO: Any empty folders will be processed, because source and destination both support folders
+
+Job 83c55dcd-85d9-a548-44b7-93ef68e4ee6f has started
+Log file is located at: /Users/monikasharma/.azcopy/83c55dcd-85d9-a548-44b7-93ef68e4ee6f.log
+
+
+100.0 %, 26 Done, 0 Failed, 0 Pending, 0 Skipped, 26 Total, 2-sec Throughput (Mb/s): 0.9589
+
+
+Job 83c55dcd-85d9-a548-44b7-93ef68e4ee6f summary
+Elapsed Time (Minutes): 0.0334
+Number of File Transfers: 15
+Number of Folder Property Transfers: 11
+Number of Symlink Transfers: 0
+Total Number of Transfers: 26
+Number of File Transfers Completed: 15
+Number of Folder Transfers Completed: 11
+Number of File Transfers Failed: 0
+Number of Folder Transfers Failed: 0
+Number of File Transfers Skipped: 0
+Number of Folder Transfers Skipped: 0
+Total Number of Bytes Transferred: 239891
+Final Job Status: Completed
+

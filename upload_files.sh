@@ -1,1 +1,3 @@
-azcopy copy '/Users/monikasharma/Documents/Study/Washu-DE/DE-SB-Capstone1/data' 'https://springboardcapstone1dl.blob.core.windows.net/input?sp=racwdl&st=2025-06-10T22:22:47Z&se=2025-08-31T06:22:47Z&spr=https&sv=2024-11-04&sr=c&sig=364pCoNgjEtIW%2BrLV61R99OISoqOGbjYuCgUEXvjAJ4%3D' --recursive
+azcopy copy '/Users/monikasharma/Documents/Study/Washu-DE/DE-SB-Capstone1/data' 'https://springboardcapstone1st.dfs.core.windows.net/input?sv=2024-11-04&ss=bfqt&srt=sco&sp=rwdlacupyx&se=2025-08-31T07:38:52Z&st=2025-06-18T23:38:52Z&spr=https,http&sig=SHl9N70czhhV1NVSb%2FXDEv2PHMsX0WLGCeuMqxylIUc%3D' --recursive
+
+#azcopy copy '/Users/monikasharma/Documents/Study/Washu-DE/DE-SB-Capstone1/data' 'https://springboardcapstone1dl.blob.core.windows.net/input?#sp=racwdl&st=2025-06-10T22:22:47Z&se=2025-08-31T06:22:47Z&spr=https&sv=2024-11-04&sr=c&sig=364pCoNgjEtIW%2BrLV61R99OISoqOGbjYuCgUEXvjAJ4%3D' --recursive
