@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 ╭─monikasharma@Mac ~/Documents/Study/Washu-DE/DE-SB-Capstone1 ‹main●›
 ╰─$ ./upload_files.sh
+=======
+─monikasharma@Mac ~
+╰─$ azcopy copy '/Users/monikasharma/Documents/Study/Washu-DE/DE-SB-Capstone1/data' 'https://springboardcapstone1st.blob.core.windows.net/data/?sp=racwdlmeop&st=2025-05-30T20:43:04Z&se=2025-08-31T04:43:04Z&spr=https&sv=2024-11-04&sr=c&sig=xxxxxx' --recursive
+>>>>>>> 0bf4d08a8f1d49aa21a0d0317b9a90c093c54939
 INFO: Scanning...
 INFO: Any empty folders will not be processed, because source and/or destination doesn't have full folder support
 
@@ -23,3 +28,9 @@ Number of File Transfers Skipped: 0
 Number of Folder Transfers Skipped: 0
 Total Number of Bytes Transferred: 276779
 Final Job Status: Completed
+<<<<<<< HEAD
+=======
+
+╭─monikasharma@Mac ~
+╰─$
+>>>>>>> 0bf4d08a8f1d49aa21a0d0317b9a90c093c54939
