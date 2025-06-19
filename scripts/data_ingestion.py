@@ -8,7 +8,7 @@ import logging
 # Configuration
 container_name = "input"
 storage_name = "springboardcapstone1st"
-sas_token = "sv=2024-11-04&ss=bfqt&srt=sco&sp=rwdlacupyx&se=2025-08-31T06:20:25Z&st=2025-06-13T22:20:25Z&spr=https&sig=hqXfl1w9w%2B7KvoHpUQx8qp7e2tDOpjJQ8RKvaW7yAZw%3D"
+sas_token = "xx"
 
 # Directory paths
 csv_dir_1 = "/data/csv/2020-08-05/NYSE/"
